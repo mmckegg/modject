@@ -1,0 +1,10 @@
+{
+  "name": "modject",
+  "version": "0.0.0",
+  "dependencies": {
+    "xtend": "^4.0.1"
+  },
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
+}
